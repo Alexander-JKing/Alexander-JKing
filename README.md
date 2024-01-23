@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![waves](https://github.com/Alexander-JKing/Alexander-JKing/assets/94008705/a8c88524-1b6e-4352-8fbc-6486829720fb)
+
