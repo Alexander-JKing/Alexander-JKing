@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Alexander-JKing/Alexander-JKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 
-![waves](https://github.com/Alexander-JKing/Alexander-JKing/assets/94008705/a8c88524-1b6e-4352-8fbc-6486829720fb)
+![mountain](https://github.com/Alexander-JKing/Alexander-JKing/assets/94008705/dc6120c3-5f9e-4314-ad26-5fe0aac7233e)
 
