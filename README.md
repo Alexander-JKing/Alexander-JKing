@@ -27,7 +27,7 @@ education:
     "MSc Geospatial Data Analysis",
     "BA International Psychology",
     "Diploma in Python Programming with CCT Dublin",
-    "Frequent attendee of and having logged hundreds of hours on DataCamp, Udemy, RealPython, etc."
+    "Self-learner with hundreds of hours logged on DataCamp, Udemy, RealPython, etc."
   ]
 
 fields_of_interest:
