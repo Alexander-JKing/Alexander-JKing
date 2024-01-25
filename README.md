@@ -38,7 +38,7 @@ fields_of_interest:
     "Data Visualization",
     "Data Science",
     "Machine Learning",
-  	"GIS",
+"GIS",
     "Remote Sensing"
   ]
 
