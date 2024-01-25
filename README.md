@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![palm_trees2](https://github.com/Alexander-JKing/Alexander-JKing/assets/94008705/a4462292-8367-4902-b9b9-46e6ad9969a7)
 
-![palm_trees](https://github.com/Alexander-JKing/Alexander-JKing/assets/94008705/14b3cf5d-9e57-4569-b266-cd077a8bffb0)
