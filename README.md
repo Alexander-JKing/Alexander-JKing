@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![mountain](https://github.com/Alexander-JKing/Alexander-JKing/assets/94008705/dc6120c3-5f9e-4314-ad26-5fe0aac7233e)
-
+![palm_trees](https://github.com/Alexander-JKing/Alexander-JKing/assets/94008705/14b3cf5d-9e57-4569-b266-cd077a8bffb0)
