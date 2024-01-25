@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github.com/Alexander-JKing/Alexander-JKing/assets/94008705/a4462292-8367-4902-b9b9-46e6ad9969a7" alt="i"/>
+  <img src="gifs/palm_trees.gif" alt="i"/>
 </p>
-
