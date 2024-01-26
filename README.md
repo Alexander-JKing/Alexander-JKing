@@ -52,5 +52,5 @@ skills:
   ]
 
 currently_learning: ["Django", "JavaScript", "Docker"]
-hobbies: ["GAA, "site-seeing", "reading", "Film"]
+hobbies: ["GAA", "Travelling", "Reading", "Film"]
 ```
